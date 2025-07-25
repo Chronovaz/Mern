@@ -1,6 +1,5 @@
-<h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
+<h1 align="center">📝 MERN Stack Note Board App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
 
