@@ -1,5 +1,4 @@
 <h1 align="center">📝 MERN Stack Note Board App ✨</h1>
-
  
 Highlights:
 
