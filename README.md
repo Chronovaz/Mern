@@ -1,6 +1,6 @@
 <h1 align="center">📝 MERN Stack Note Board App ✨</h1>
    
-Highlights:  
+Highlights:   
 
 
 - 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
