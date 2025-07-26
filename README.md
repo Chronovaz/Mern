@@ -12,7 +12,7 @@ Highlights:
 - 📚 Designed for Absolute Beginners
 
 ---
-
+ 
 ## 🧪 .env Setup
 
 ### Backend (`/backend`)
